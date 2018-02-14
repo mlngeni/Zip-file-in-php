@@ -1,2 +1,3 @@
-# Zip-file-in-php
-A small script in php that create a zip file and add other files to it then save it 
+# Responsive Navigation Bar 
+
+How to create a responsive navbar for a website using htnl and css
