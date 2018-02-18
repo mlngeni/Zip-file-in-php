@@ -12,4 +12,3 @@ Mostafa Ahmed
 ## Copyright
 © Mostafa Ahmed
 
-Licenesd under [MIT licenese](LICENSE)
